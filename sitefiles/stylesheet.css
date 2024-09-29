@@ -7,11 +7,19 @@ body{
 	background-color: black;
 }
 
-.p1{
+h2{
+	
+	color: white;
+}
+p{
 	color: yellow;
-	padding-right: 50%;
 	font-family: Verdana,sans-serif;
 	
 }
+
+#bio{
+	padding-right: 50%;
+}
+
 
 
